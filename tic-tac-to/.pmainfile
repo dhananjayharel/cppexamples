@@ -1,0 +1,5 @@
+{"mainfile":"game.cpp",
+"compilemenucommand":":> ./.testcaseop && python3 demo.py",
+"runmenucommand":"g++ game.cpp && ./a.out",
+"showterminal":true
+}
